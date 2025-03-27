@@ -1,3 +1,13 @@
+# ==========================================================================
+# Name:         BAS_Controller.py
+# Author:       Yahaya Abdullahi
+# Date:         March 27, 2025
+# Purpose:      Main controller for the Enhanced Building Automation System (BAS),
+#               integrating smart scheduling, manual and automated control modes,
+#               and real-time monitoring.
+# ==========================================================================
+
+
 from tkinter import *
 from tkinter import ttk, messagebox
 import serial
