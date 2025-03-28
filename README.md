@@ -1,11 +1,8 @@
 # **Enhanced Building Automation System (BAS)**  
 
 <p align="center">
-  <img src="GUI.png" alt="BAS GUI" width="500">
+  <img src="GUI.png" alt="BAS GUI" width="1000" height="1000">
 </p>
-
-
-![BAS GUI](GUI.png)  
 
 ## 📌 Overview  
 
